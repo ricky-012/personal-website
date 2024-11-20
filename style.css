@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://img.freepik.com/free-photo/mexico-flag-ruffled-beautifully-waving-macro-close-up-shot_1379-110.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size: cover;
+}
+
+table, th, td {
+    border: 5px solid black 
+}
+#table2 {
+    background-color: white;
+    font-style: italic;
+    
+}
+#table3{
+    background-color: rgb(199, 118, 118) ;
+        position: absolute;
+        top: 1400px;
+        left: 420px;
+        border: 5px solid black;
+        font-style: oblique;
+}
